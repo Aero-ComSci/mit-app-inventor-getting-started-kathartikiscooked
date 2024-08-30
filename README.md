@@ -9,4 +9,7 @@ In this repository you will be turning in your cookie clicker sim created on MIT
 3. Image of your code, can be done by right clicking and download blocks as image or by screenshot, __place on readme__
 4. Add a quick reflection(2 sentences) about what was difficult __Place on Readme__
 
+![image](https://github.com/user-attachments/assets/e4646b39-f8b9-41d3-99dc-7a4cb76aa013)
+![image](https://github.com/user-attachments/assets/28c8fbd0-0ac9-4624-8aaa-867e0a8c56ed)
 
+the most difficult part was getting the format correct and centering everthing 
